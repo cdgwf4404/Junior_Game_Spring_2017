@@ -33,3 +33,16 @@ Icon?
 ehthumbs.db
 Thumbs.db
 *.exe
+
+# ============ #
+# K Plugin     #
+# ============ #
+
+Assets/Koreographer*
+Assets/Gizmos*
+Assets/KoreographerPlugin*
+Assets/Editor Default Resources*
+Assets/Plugins*
+*.asset
+*.meta 
+
