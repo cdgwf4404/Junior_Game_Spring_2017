@@ -1,0 +1,991 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX TITAN (ID=0x1005)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\SonicBloom.Koreo.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\SonicBloom.Koreo.dll into Unity Child Domain
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\SonicBloom.MIDI.dll (this message is harmless)
+Loading C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\SonicBloom.MIDI.dll into Unity Child Domain
+- Completed reload, in  0.167 seconds
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Helium\Desktop\UVU_Junior_Game_ProjectFallSemesterFinal\RhythmBeatdown_Prototype\Builds\PreTurkeyBuildAlpha_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 60Hz; virtual: 3280x1200 at 0,-150
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Point light') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'AudioObject_Classical') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'EscalaSong') is missing!
+ 
+(Filename:  Line: 1656)
+
+The referenced script on this Behaviour (Game Object 'AudioObject_Rock') is missing!
+ 
+(Filename:  Line: 1656)
+
+UnloadTime: 0.717637 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: b00 -> priority: 1 
+  Thread -> id: 5bc -> priority: 1 
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.LandEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.LandEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+2 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.FireProjectile (Int32 playerNum, Int32 projectileType) [0x00000] in <filename unknown>:0 
+  at StandardAttacks.RangedLowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+2 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.FireProjectile (Int32 playerNum, Int32 projectileType) [0x00000] in <filename unknown>:0 
+  at StandardAttacks.RangedMedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+2 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.FireProjectile (Int32 playerNum, Int32 projectileType) [0x00000] in <filename unknown>:0 
+  at StandardAttacks.RangedLowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Y
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.HighAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.JumpEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionExit (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.LandEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.JumpEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionExit (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Fighter.LandEffect () [0x00000] in <filename unknown>:0 
+  at Fighter.OnCollisionEnter (UnityEngine.Collision col) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.MedAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at StandardAttacks.PlayerDirection () [0x00000] in <filename unknown>:0 
+  at StandardAttacks.LowAttack () [0x00000] in <filename unknown>:0 
+  at InputManager.Update () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
