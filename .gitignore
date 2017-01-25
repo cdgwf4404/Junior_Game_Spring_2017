@@ -55,6 +55,10 @@ RhythmBeatdown_Prototype/Assets/MarioAssets
 RhythmBeatdown_Prototype/Assets/Gizmos*
 RhythmBeatdown_Prototype/Assets/Gizmos
 
+RhythmBeatdown_Prototype/Assets/VFX*
+RhythmBeatdown_Prototype/Assets/VFX
+
+
 *.asset
 *.meta 
 
