@@ -38,11 +38,14 @@ Thumbs.db
 # K Plugin     #
 # ============ #
 
-Assets/Koreographer
-Assets/Gizmos
-Assets/KoreographerPlugin
-Assets/Editor_Default Resources
-Assets/Plugins
+Assets/Koreographer*
+Assets/Gizmos*
+Assets/KoreographerPlugin*
+Assets/Editor_Default Resources*
+Assets/Plugins*
+RhythmBeatdown_Prototype/Assets/Gizmos*
+RhythmBeatdown_Prototype/Assets/Gizmos
+
 *.asset
 *.meta 
 
