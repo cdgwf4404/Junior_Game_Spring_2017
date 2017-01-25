@@ -1,0 +1,60 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+Library/
+Assets/AssetStoreTools*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+*.exe
+
+# ============ #
+# K Plugin     #
+# ============ #
+
+RhythmBeatdown_Prototype/Assets/Koreographer*
+RhythmBeatdown_Prototype/Assets/Gizmos*
+RhythmBeatdown_Prototype/Assets/KoreographerPlugin*
+RhythmBeatdown_Prototype/Assets/Editor\ Default\ Resources*
+RhythmBeatdown_Prototype/Assets/Plugins*
+RhythmBeatdown_Prototype/Assets/MarioAssets*
+
+RhythmBeatdown_Prototype/Assets/Koreographer
+RhythmBeatdown_Prototype/Assets/Gizmos
+RhythmBeatdown_Prototype/Assets/KoreographerPlugin
+RhythmBeatdown_Prototype/Assets/Editor\ Default\ Resources
+RhythmBeatdown_Prototype/Assets/Plugins
+RhythmBeatdown_Prototype/Assets/MarioAssets
+
+RhythmBeatdown_Prototype/Assets/Gizmos*
+RhythmBeatdown_Prototype/Assets/Gizmos
+
+*.asset
+*.meta 
+
